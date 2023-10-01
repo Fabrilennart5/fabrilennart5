@@ -15,10 +15,14 @@
   ![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-333333?style=flat&logo=amazon)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/fabriciolennart/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fabricio%20Lennart-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:fabriciolennart@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-fabriciolennart%40example.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/fabricio-lennart/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fabricio%20Lennart-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://x.com/fabriciolennart?s=21&t=e-T5phUrAAGJAW77bjF0-Q"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Fabricio%20Lennart-blue?style=flat-square&logo=twitter"></a>
+<a href="https://es.quora.com/profile/Fabricio-Lennart-Flores-Ledezma?ch=17&oid=1559454194&share=e2998389&srid=uyPGiz&target_type=user"><img alt="Quora" src="https://img.shields.io/badge/Quora-Fabricio%20Lennart-blue?style=flat-square&logo=quora"></a>  
+<a href="mailto:fabricioflores515@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Fabricio%20Lennart-blue?style=flat-square&logo=gmail"></a>  
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=fabriciolennart&show_icons=true)
 
