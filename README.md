@@ -26,4 +26,4 @@
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Fabrilennart5&show_icons=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciolennart&label=Profile%20views&color=0e75b6&style=flat" alt="fabriciolennart" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabrilennart5t&label=Profile%20views&color=0e75b6&style=flat" alt="fabriciolennart" /> </p>
