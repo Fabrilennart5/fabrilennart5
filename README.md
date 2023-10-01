@@ -24,6 +24,6 @@
 <a href="https://es.quora.com/profile/Fabricio-Lennart-Flores-Ledezma?ch=17&oid=1559454194&share=e2998389&srid=uyPGiz&target_type=user"><img alt="Quora" src="https://img.shields.io/badge/Quora-Fabricio%20Lennart-blue?style=flat-square&logo=quora"></a>  
 <a href="mailto:fabricioflores515@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Fabricio%20Lennart-blue?style=flat-square&logo=gmail"></a>  
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=fabriciolennart&show_icons=true)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Fabrilennart5&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciolennart&label=Profile%20views&color=0e75b6&style=flat" alt="fabriciolennart" /> </p>
