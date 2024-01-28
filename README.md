@@ -1,11 +1,15 @@
-<h1>Hello! I'm Fabricio Lennart <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Data Engineer 🎯</h2>
+<h1>Hello! 😄 Welcome to my repository. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+
+<img align="center" alt="Coding" width="800" src="https://blog-assets.freshworks.com/hrms/wp-content/uploads/2021/03/02095010/DS-5thimage.gif">
+
+<h2>I'm Fabri Lennart, a passionate Analytics Engineer 🎯</h2>
 
 ### About Me
-- I am 22 years old and I am from Cochabamba, Bolivia.
-- I am a self-taught individual who is passionate about data analytics. 
-- I started my journey with Data Analytics and I'm currently gearing up in the field of Data Engineering.
-- I firmly believe in the transformative power of data in organizations.
+- 🎂 I am 22 years old and I am from Cochabamba, Bolivia.
+- 🧑‍💻 I am a self-taught individual who is passionate about data analytics and data engineering.
+- 🌱 Currently learning Rust.
+- 👯 Looking to collaborate on any Data Engineer project.
+- 📫 How to reach me: [fabricioflores515@gmail.com]
 
 ### Technologies
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
@@ -24,6 +28,8 @@
 <a href="https://es.quora.com/profile/Fabricio-Lennart-Flores-Ledezma?ch=17&oid=1559454194&share=e2998389&srid=uyPGiz&target_type=user"><img alt="Quora" src="https://img.shields.io/badge/Quora-Fabricio%20Lennart-blue?style=flat-square&logo=quora"></a>  
 <a href="mailto:fabricioflores515@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Fabricio%20Lennart-blue?style=flat-square&logo=gmail"></a>  
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Fabrilennart5&show_icons=true)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Fabrilennart5&show_icons=true&theme=dark)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabrilennart5t&label=Profile%20views&color=0e75b6&style=flat" alt="fabriciolennart" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabrilennart5&label=Profile%20views&color=0e75b6&style=flat" alt="Fabrilennart5" /> </p>
+
+Thanks for visiting my repository! Feel free to explore my projects and contact me if you have any questions or suggestions. 😊
