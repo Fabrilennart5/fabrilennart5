@@ -1,6 +1,6 @@
 <h1>Hello! 😄 Welcome to my repository. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 
-<img align="center" alt="Coding" width="400" src="https://blog-assets.freshworks.com/hrms/wp-content/uploads/2021/03/02095010/DS-5thimage.gif">
+<img align="center" alt="Coding" width="1000" height="450" src="https://blog-assets.freshworks.com/hrms/wp-content/uploads/2021/03/02095010/DS-5thimage.gif">
 
 <h2>I'm Fabri Lennart, a passionate Analytics Engineer 🎯</h2>
 
