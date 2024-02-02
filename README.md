@@ -8,8 +8,8 @@
 - 🎂 I am 22 years old and I am from Cochabamba, Bolivia.
 - 🧑‍💻 I am a self-taught individual who is passionate about data analytics and data engineering.
 - 🌱 Currently learning Rust.
-- 👯 Looking to collaborate on any Data Engineer project.
-- 📫 How to reach me: [fabricioflores515@gmail.com]
+- 🤝 Looking to collaborate on any Data Engineer project.
+- 📫 How to reach me: fabricioflores515@gmail.com
 
 ### Technologies
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
@@ -28,7 +28,13 @@
 <a href="https://es.quora.com/profile/Fabricio-Lennart-Flores-Ledezma?ch=17&oid=1559454194&share=e2998389&srid=uyPGiz&target_type=user"><img alt="Quora" src="https://img.shields.io/badge/Quora-Fabricio%20Lennart-blue?style=flat-square&logo=quora"></a>  
 <a href="mailto:fabricioflores515@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Fabricio%20Lennart-blue?style=flat-square&logo=gmail"></a>  
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Fabrilennart5&show_icons=true&theme=dark)
+#### GitHub Stats
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fabrilennart5&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=6eff66&text_color=ffffff&bg_color=0d1117" alt="Fabricio Lennart github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrilennart5&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabrilennart5&label=Profile%20views&color=0e75b6&style=flat" alt="Fabrilennart5" /> </p>
 
