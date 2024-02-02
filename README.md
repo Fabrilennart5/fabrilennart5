@@ -5,10 +5,10 @@
 <h2>I'm Fabri Lennart, a passionate Analytics Engineer 🎯</h2>
 
 ### About Me
-- 🎂 I am 22 years old and I am from Cochabamba, Bolivia.
-- 🧑‍💻 I am a self-taught individual who is passionate about data analytics and data engineering.
-- 🌱 Currently learning Rust.
-- 🤝 Looking to collaborate on any Data Engineer project.
+- 🎂 I'm 22 years old and I'm from Cochabamba, Bolivia.
+- 💻 I'm a self-taught programmer passionate about data analytics and data engineering.
+- 📚 Currently learning Rust.
+- 🚀 Open to collaboration—feel free to reach out for Data Engineering projects.
 - 📫 How to reach me: fabricioflores515@gmail.com
 
 ### Technologies
