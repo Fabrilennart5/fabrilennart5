@@ -1,4 +1,4 @@
-<h1>Hello! 😄 Welcome to my repository. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h1>Hello! 😄 Welcome to my repository. 🚀</h1>
 
 <img align="center" alt="Coding" width="1000" height="450" src="https://blog-assets.freshworks.com/hrms/wp-content/uploads/2021/03/02095010/DS-5thimage.gif">
 
@@ -12,15 +12,18 @@
 - 📫 How to reach me: fabricioflores515@gmail.com
 
 ### Technologies
-  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-333333?style=flat&logo=amazon)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="python" alt="" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-tableau-5376637-4489897.png?f=webp&w=256" title="tableau" alt="" width="50" height="50"/>
+  <img src="https://th.bing.com/th/id/R.3a646f7af36c19f92453a872e1a6a329?rik=NGLnMz%2bk6faQkw&riu=http%3a%2f%2fit.miami.edu%2f_assets%2fimages%2fO365_Power_BI.png&ehk=HBpjA2cY61UDu8947P%2f2Gm%2fB0yMsGkb7ZeS3AFO5hBs%3d&risl=&pid=ImgRaw&r=0" title="Power Bi" alt="" width="40" height="40"/>
+  <img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0-1536x1536.png" title="Figma" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql"  alt="" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" title="" alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="" alt="" width="40" height="40"/>
+</div>
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/fabricio-lennart/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fabricio%20Lennart-blue?style=flat-square&logo=linkedin"></a>
