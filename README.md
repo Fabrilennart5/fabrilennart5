@@ -50,12 +50,10 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/fabricio-lennart/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fabricio%20Lennart-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://x.com/fabriciolennart?s=21&t=e-T5phUrAAGJAW77bjF0-Q"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Fabricio%20Lennart-blue?style=flat-square&logo=twitter"></a>
-  <a href="https://es.quora.com/profile/Fabricio-Lennart-Flores-Ledezma?ch=17&oid=1559454194&share=e2998389&srid=uyPGiz&target_type=user"><img alt="Quora" src="https://img.shields.io/badge/Quora-Fabricio%20Lennart-blue?style=flat-square&logo=quora"></a>
   <a href="mailto:fabricioflores515@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Fabricio%20Lennart-blue?style=flat-square&logo=gmail"></a>
 </div>
 
-<p align="left">
+
+Thanks for visiting my repository! Feel free to explore my projects and contact me if you have any questions or suggestions. 😊 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Fabrilennart5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-Thanks for visiting my repository! Feel free to explore my projects and contact me if you have any questions or suggestions. 😊
