@@ -3,7 +3,7 @@
 <img align="center" alt="Coding" width="1000" height="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFiazl0YWw3OW56Y3htbno5OHJ6cmljN3kzYmRkcDEwcWZ3ZHcxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 
 ### About Me
-- 🎂 I'm 22 years old and I'm from Cochabamba, Bolivia.
+- 🎂 I'm 23 years old and I'm from Cochabamba, Bolivia.
 - 💻 I'm a self-taught programmer passionate about data analytics and data engineering.
 - 📚 Currently learning Rust.
 - 🚀 Open to collaboration—feel free to reach out for Data Engineering projects.
