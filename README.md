@@ -1,59 +1,85 @@
-<h1> Hi! 😄 I'm Fabri Lennart. 🚀</h1>
+# ¡Hola mundo! Soy **Fabricio Lennart**, un apasionado del análisis y la ingeniería de datos 🚀
 
-<img align="center" alt="Coding" width="1000" height="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFiazl0YWw3OW56Y3htbno5OHJ6cmljN3kzYmRkcDEwcWZ3ZHcxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
-
-### About Me
-- 🎂 I'm 23 years old and I'm from Cochabamba, Bolivia.
-- 💻 I'm a self-taught programmer passionate about data analytics and data engineering.
-- 📚 Currently learning Rust.
-- 🚀 Open to collaboration—feel free to reach out for Data Engineering projects.
-- 📫 How to reach me: fabricioflores515@gmail.com
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHGTzEHt5uvCQ/profile-displaybackgroundimage-shrink_350_1400/B4EZZjy158H0AY-/0/1745430995229?e=1756339200&v=beta&t=8p4XVD7AZPpzcwL8qXR_ZE3duwepooxRmtvTZatjZ4k)
 
 ---
 
-### GitHub Stats
+### 👤 Sobre mí
+
+<p align="center">
+  <img alt="Edad" src="https://img.shields.io/badge/🎂-23%20años-%23fabd2f?style=for-the-badge" />
+  <img alt="Estudiante" src="https://img.shields.io/badge/🎓-Estudiante%20de%20Ingeniería%20de%20Software-%23b8bb26?style=for-the-badge" />
+  <img alt="NixOS" src="https://img.shields.io/badge/🐧-Usuario%20de%20NixOS-%2383a598?style=for-the-badge" />
+  <img alt="Neovim" src="https://img.shields.io/badge/⚡-Fan%20de%20Neovim-%23d3869b?style=for-the-badge" />
+  <img alt="Rust" src="https://img.shields.io/badge/🦀-Aprendiendo%20Rust-%23fe8019?style=for-the-badge" />
+</p>
+
+🎯 *"Talk is cheap. Show me the code." - Linus Torvalds*
+
+---
+
+### 💻 Tecnologías que uso a diario
+
+#### 📊 Data & Visualización
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+
+#### 🧠 Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### ⚙️ Herramientas & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+
+---
+
+### 🧑‍🚀 Sobre mí (más detalle)
+
+Hola, soy **Fabricio Lennart**, un programador autodidacta de Cochabamba, Bolivia 🇧🇴.  
+Me dedico a la ingeniería de datos y el análisis, enfocándome en transformar datos en información útil mediante visualizaciones, consultas y pipelines.  
+
+💡 Me apasiona automatizar tareas y descubrir insights ocultos.  
+🤝 Busco colaborar en proyectos de análisis y preparación de datos.  
+📚 Actualmente profundizo en Rust y optimización de queries SQL.  
+
+👉 ¡Explora mis proyectos y contáctame para colaborar!
+
+---
+
+### 📈 GitHub Stats
+
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fabrilennart5&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=6eff66&text_color=ffffff&bg_color=0d1117" alt="Fabricio Lennart github stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fabrilennart5&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabrilennart5&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrilennart5&langs_count=8&layout=compact&theme=gruvbox&hide_border=true" height="180px"/>
 </div>
 
 ---
 
-### Technologies
+### 📁 Proyectos Destacados
+
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-tableau-5376637-4489897.png?f=webp&w=256" title="Tableau" alt="Tableau" width="50" height="50"/>
-  <img src="https://th.bing.com/th/id/R.3a646f7af36c19f92453a872e1a6a329?rik=NGLnMz%2bk6faQkw&riu=http%3a%2f%2fit.miami.edu%2f_assets%2fimages%2fO365_Power_BI.png&ehk=HBpjA2cY61UDu8947P%2f2Gm%2fB0yMsGkb7ZeS3AFO5hBs%3d&risl=&pid=ImgRaw&r=0" title="Power BI" alt="Power BI" width="40" height="40"/>
-  <img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0-1536x1536.png" title="Figma" alt="Figma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" title="Neovim" alt="Neovim" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+  <a href="https://github.com/Fabrilennart5/Data-Analysis-with-SQL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabrilennart5&repo=Data-Analysis-with-SQL&theme=gruvbox&hide_border=true" alt="Data Analysis with SQL" />
+  </a>
+  <a href="https://github.com/Fabrilennart5/diplomado_ingenieria_datos_practica_5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabrilennart5&repo=diplomado_ingenieria_datos_practica_5&theme=gruvbox&hide_border=true" alt="Diplomado Ingeniería de Datos - Práctica 5" />
+  </a>
 </div>
 
 ---
 
-### 📁 Featured Projects
-<div align="left">
-  <table>
-    <tr>
-      <td><a href="https://github.com/Fabrilennart5/Data-Analysis-with-SQL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabrilennart5&repo=Data-Analysis-with-SQL&theme=gruvbox" alt="Data Analysis with SQL" /></a></td>
-      <td><a href="https://github.com/Fabrilennart5/diplomado_ingenieria_datos_practica_5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabrilennart5&repo=diplomado_ingenieria_datos_practica_5&theme=gruvbox" alt="Diplomado Ingeniería de Datos - Práctica 5" /></a></td>
-    </tr>
-  </table>
-</div>
----
+### 💬 Contacto
 
-### Contact Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/fabricio-lennart/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fabricio%20Lennart-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://x.com/fabriciolennart?s=21&t=e-T5phUrAAGJAW77bjF0-Q"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Fabricio%20Lennart-blue?style=flat-square&logo=twitter"></a>
-  <a href="mailto:fabricioflores515@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Fabricio%20Lennart-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/fabricio-lennart/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fabricio%20Lennart-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/fabriciolennart?s=21&t=e-T5phUrAAGJAW77bjF0-Q"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@fabriciolennart-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:fabricioflores515@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-fabricioflores515@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-
-Thanks for visiting my repository! Feel free to explore my projects and contact me if you have any questions or suggestions. 😊 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Fabrilennart5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fabrilennart5&label=Profile%20views&color=8ec07c&style=flat" alt="Profile views" />
 </p>
