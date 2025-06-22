@@ -1,4 +1,4 @@
-# ¡Hola mundo! Soy **Fabricio Lennart**, un apasionado del análisis y la ingeniería de datos 🚀
+# ¡Hola mundo! Soy **Fabricio Lennart**, un apasionado del software y la ingeniería de datos 🚀
 
 ![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHGTzEHt5uvCQ/profile-displaybackgroundimage-shrink_350_1400/B4EZZjy158H0AY-/0/1745430995229?e=1756339200&v=beta&t=8p4XVD7AZPpzcwL8qXR_ZE3duwepooxRmtvTZatjZ4k)
 
