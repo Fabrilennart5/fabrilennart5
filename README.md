@@ -26,8 +26,7 @@ Me dedico a la ingeniería de datos y de software, enfocado en el ciclo completo
 
 ### 💻 Tecnologías que uso a diario
 
-#### 📊 Data & Orquestadores
-<p align="center">
+<span>
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img alt="Microsoft Clarity" src="https://img.shields.io/badge/Microsoft_Clarity-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -36,23 +35,25 @@ Me dedico a la ingeniería de datos y de software, enfocado en el ciclo completo
     <img alt="Kestra" src="https://img.shields.io/badge/Kestra-000000?style=for-the-badge&logo=kestra&logoColor=white" />
   </a>
   <img alt="KNIME" src="https://img.shields.io/badge/KNIME-0086D1?style=for-the-badge&logo=knime&logoColor=white" />
-</p>
+</span>
 
 #### 🧠 Lenguajes & Herramientas
-<p align="center">
+
+<span>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-</p>
+</span>
 
 #### ⚙️ Sistemas Operativos
-<p align="center">
+
+<span>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
+</span>
 
 ---
 
