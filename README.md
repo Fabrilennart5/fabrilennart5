@@ -12,41 +12,39 @@
   <img alt="NixOS" src="https://img.shields.io/badge/🐧-Usuario%20de%20NixOS-%2383a598?style=for-the-badge" />
   <img alt="Neovim" src="https://img.shields.io/badge/⚡-Fan%20de%20Neovim-%23d3869b?style=for-the-badge" />
   <img alt="Rust" src="https://img.shields.io/badge/🦀-Aprendiendo%20Rust-%23fe8019?style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/☕-Aprendiendo%20Java-%23007ACC?style=for-the-badge" />
 </p>
 
-🎯 *"Talk is cheap. Show me the code." - Linus Torvalds*
+Soy **Fabricio Lennart**, un programador de Cochabamba, Bolivia 🇧🇴.  
+Me dedico a la ingeniería de datos y de software, enfocado en el ciclo completo de los datos: desde la recolección y procesamiento hasta el análisis y la visualización. Me apasiona crear soluciones y aplicaciones orientadas a Big Data, construyendo pipelines y herramientas que convierten los datos en valor real.
+
+💡 Automático procesos, optimizo flujos y busco descubrir insights útiles.  
+🤝 Abierto a colaborar en proyectos de análisis, ingeniería de datos y desarrollo de software.  
+📚 Actualmente profundizo en Rust y optimización de queries SQL.
 
 ---
 
 ### 💻 Tecnologías que uso a diario
 
-#### 📊 Data & Visualización
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+#### 📊 Data & Orquestadores
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+[![Kestra](https://img.shields.io/badge/Kestra-000000?style=for-the-badge&logo=kestra&logoColor=white)](https://kestra.io/)
+![Knime](https://img.shields.io/badge/KNIME-0086D1?style=for-the-badge&logo=knime&logoColor=white)
 
-#### 🧠 Lenguajes
+#### 🧠 Lenguajes & Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### ⚙️ Herramientas & Infra
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 
----
-
-### 🧑‍🚀 Sobre mí (más detalle)
-
-Hola, soy **Fabricio Lennart**, un programador autodidacta de Cochabamba, Bolivia 🇧🇴.  
-Me dedico a la ingeniería de datos y el análisis, enfocándome en transformar datos en información útil mediante visualizaciones, consultas y pipelines.  
-
-💡 Me apasiona automatizar tareas y descubrir insights ocultos.  
-🤝 Busco colaborar en proyectos de análisis y preparación de datos.  
-📚 Actualmente profundizo en Rust y optimización de queries SQL.  
-
-👉 ¡Explora mis proyectos y contáctame para colaborar!
+#### ⚙️ Sistemas Operativos
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -62,11 +60,11 @@ Me dedico a la ingeniería de datos y el análisis, enfocándome en transformar 
 ### 📁 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/Fabrilennart5/Data-Analysis-with-SQL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabrilennart5&repo=Data-Analysis-with-SQL&theme=gruvbox&hide_border=true" alt="Data Analysis with SQL" />
+  <a href="https://github.com/Fabrilennart5/youtube_etl_pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabrilennart5&repo=youtube_etl_pipeline&theme=gruvbox&hide_border=true" alt="YouTube ETL Pipeline" />
   </a>
-  <a href="https://github.com/Fabrilennart5/diplomado_ingenieria_datos_practica_5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabrilennart5&repo=diplomado_ingenieria_datos_practica_5&theme=gruvbox&hide_border=true" alt="Diplomado Ingeniería de Datos - Práctica 5" />
+  <a href="https://github.com/Fabrilennart5/fabri-neovim-config">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabrilennart5&repo=fabri-neovim-config&theme=gruvbox&hide_border=true" alt="Fabri Neovim Config" />
   </a>
 </div>
 
@@ -77,7 +75,7 @@ Me dedico a la ingeniería de datos y el análisis, enfocándome en transformar 
 <div align="center">
   <a href="https://www.linkedin.com/in/fabricio-lennart/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fabricio%20Lennart-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/fabriciolennart?s=21&t=e-T5phUrAAGJAW77bjF0-Q"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@fabriciolennart-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:fabricioflores515@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-fabricioflores515@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:fabrilennart@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-fabrilennart@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <p align="center">
